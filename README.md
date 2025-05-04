@@ -1,4 +1,4 @@
-This is my first working program using CxxDroid on android. This is a program about the restaurant service fow that prints out order receipt of the guests. 
+This is my first working program using CxxDroid on android. This is a program about the restaurant service flow that prints out order receipt of the guests. 
 
 
 **Scope of the Program:**
